@@ -199,9 +199,9 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Crypto Devs!</h1>
+          <h1 className={styles.title}>Welcome to Frankie Tribe!</h1>
           <div className={styles.description}>
-            Its an NFT collection for developers in Crypto.
+            Its an NFT collection for developers in Frankie Tribe.
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist
